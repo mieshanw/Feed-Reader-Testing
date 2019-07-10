@@ -2,7 +2,7 @@
 
 This project was completed as apart of Udacity's Front End Web Developer Nanodegree requirements.
 
-## Abbout 
+## About 
 This project uses Jasmine in order to test a web application running RSS feeds. 
 
 ## Running Application 
